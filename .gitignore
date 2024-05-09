@@ -25,8 +25,8 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-**/src/main/resources/application-ftp.xml
-**/src/main/resources/application-file.xml
+**/src/main/resources/application-ftp.yml
+**/src/main/resources/application-file.yml
 
 ### NetBeans ###
 /nbproject/private/
